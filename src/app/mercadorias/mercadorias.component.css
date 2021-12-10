@@ -1,0 +1,30 @@
+.center-hor{
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.layout-table,
+.layout-table th,
+.layout-table td
+{
+  border-style: solid;
+  border-color: #000;
+  border-width: 1px;
+}
+
+.header-table-gray{
+  background-color: gray;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.width-100{
+  width: 100%;
+}
+
+.container-input{
+  width: 300px;
+  margin-top: 20px;
+}
